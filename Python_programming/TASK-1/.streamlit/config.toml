@@ -1,0 +1,19 @@
+[server]
+runOnSave = true
+port = 5000
+[theme]
+# Primary accent color for interactive elements.
+#primaryColor = "#ADB5BD"
+
+# Background color for the main content area.
+#backgroundColor = "#191724"
+
+# Background color used for the sidebar and most interactive widgets.
+#secondaryBackgroundColor = "#0C0D21"
+
+# Color used for almost all text.
+#textColor = "#7C8F8F"
+
+# Font family for all text in the app, except code blocks. One of "sans serif",
+# "serif", or "monospace".
+font= "sans serif"
